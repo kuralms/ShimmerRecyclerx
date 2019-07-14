@@ -16,7 +16,8 @@ See the License for the specific language governing permissions and
 limitations under the License.
 
 -->
-<com.cooltechworks.views.shimmer.ShimmerRecyclerView xmlns:android="http://schemas.android.com/apk/res/android"
+<com.cooltechworks.views.shimmer.ShimmerRecyclerView
+    xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
     android:id="@+id/shimmer_recycler_view"
     android:layout_width="match_parent"
